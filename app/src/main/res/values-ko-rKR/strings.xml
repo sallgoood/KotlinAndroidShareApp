@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">쉐어 앱</string>
+    <string name="show_toast">토스트 보기</string>
+    <string name="enter_a_message">메세지를 입력하세요</string>
+    <string name="send_data_to_next_activity">다음 엑티비티로 데이터 전송하기</string>
+    <string name="share_to_other_apps">다른 앱과 공유하기</string>
+    <string name="show_my_hobbies">나의 취미 보기</string>
+    <string name="textview">텍스트 뷰</string>
+    <string name="title">타이</string>
+    <string name="show_toast_is_clicked">토스트 보기를 눌렀습니다</string>
+</resources>
